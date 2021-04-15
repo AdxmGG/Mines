@@ -1,0 +1,2 @@
+# Mines
+Lightweight Mines Script.
